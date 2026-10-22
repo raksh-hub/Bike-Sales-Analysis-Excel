@@ -2,9 +2,11 @@
 
 ## 📌 Project Overview  
 
-This project analyzes bike sales data to uncover insights into customer demographics, purchasing behavior, and sales patterns. Using Excel, I applied data cleaning, transformation, and visualization techniques to turn raw data into an interactive dashboard that highlights key business trends.
+An Excel-based analysis of bike purchasing behaviour across customer demographics, income, commute distance and occupation.
 
-**Source:** [Kaggle - Bike Sales Data](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/bike-sales-dataset)
+## 📊 Dashboard
+
+![Bike Sales Dashboard](images/dashboard.png)
 
 ## 🛠 Tools & Skills Used
 - Microsoft Excel
